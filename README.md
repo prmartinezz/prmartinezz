@@ -21,14 +21,24 @@
 </p>
 -->
 
-<br>
+##
 
 <p align="center">
 <img width="392em" src="https://github-readme-stats.vercel.app/api?username=prmartinezz&show_icons=true&theme=dracula" alt="Pablo Martínez's stats"/>
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prmartinezz&layout=compact&langs_count=7&theme=dracula" alt="Pablo Martínez's most languages"/>
 </p>
 
-<br><br>
+##
+
+<p align="center">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</p>
 
 ## Contact
 
