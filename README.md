@@ -55,8 +55,6 @@
 </a>
 </p>
 
- ![Snake animation](https://github.com/prmartinezz/prmartinezz/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 
 
