@@ -21,6 +21,13 @@
 </p>
 -->
 
+<br>
+
+<p align="center">
+<img width="392em" src="https://github-readme-stats.vercel.app/api?username=prmartinezz&show_icons=true&theme=dracula" alt="Pablo Martínez's stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prmartinezz&layout=compact&langs_count=7&theme=dracula" alt="Pablo Martínez's most languages"/>
+</p>
+
 <br><br>
 
 ## Contact
@@ -33,6 +40,8 @@
  <img align="center" src="https://img.shields.io/badge/-Pablo Martínez-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+
+
 
 <!--
 
