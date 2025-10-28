@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning **Java, Angular**
 
 
-- 📫 How to reach me: pablo-ruan801@hotmail.com
-
 
 <!--
 
