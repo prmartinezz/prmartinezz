@@ -42,17 +42,6 @@
   <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </p>
 
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/pablomartinezz" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Pablo Martínez-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/pr.martinezz" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Pablo Martínez-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
-
 <!--
 
 
