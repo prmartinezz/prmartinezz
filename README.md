@@ -1,60 +1,46 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/prmartinezz/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pablo Martínez</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prmartinezz&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer
-
-
-- 💬 Ask me about **JavaScript, TypeScript, React**
-
-
-- 🌱 I’m currently learning **Java, Angular**
-
-
-
-<!--
-
-
-## ⚙️ &nbsp;GitHub Analytics
+<h1 align="left">
+  Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pablo Martínez
+</h1>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=prmartinezz&show_icons=true&theme=vision-friendly-dark" alt="Pablo Martínez's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prmartinezz&layout=compact&theme=vision-friendly-dark" alt="Pablo Martínez's most languages"/>
+  <img src="https://komarev.com/ghpvc/?username=prmartinezz&color=blueviolet" alt="Profile views" />
 </p>
--->
 
-##
+### 🚀 Software Developer | Mobile & Backend
+
+I’m a developer focused on building scalable, modern and high-performance applications.  
+I work with mobile, backend and web technologies, always looking for clean architecture, good performance and great user experience.
+
+---
+
+### 🧠 About me
+
+- 🔥 Mobile and Backend Developer  
+- 📱 Building apps with **Flutter, Swift and Kotlin**
+- ⚙️ Creating APIs and scalable systems with **.NET, Java and NestJS**
+- 🌐 Developing modern web apps with **Next.js**
+- 🧩 Interested in **Clean Architecture, MVVM, MVC, APIs, SaaS and automation**
+- 💬 Ask me about **Mobile Development, Backend, APIs and Software Architecture**
+
+---
+
 
 <p align="center">
-<img width="392em" src="https://github-readme-stats.vercel.app/api?username=prmartinezz&show_icons=true&theme=dracula" alt="Pablo Martínez's stats"/>
-<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prmartinezz&layout=compact&langs_count=7&theme=dracula" alt="Pablo Martínez's most languages"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header&text=Tech%20Stack&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
-
-##
 
 <p align="center">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=.NET+%7C+Java+%7C+NestJS;Flutter+%7C+Swift+%7C+Kotlin;Next.js+%7C+TypeScript+%7C+APIs;Clean+Architecture+%7C+Scalable+Systems" alt="Typing SVG" />
 </p>
 
-<!--
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,java,flutter,swift,kotlin,nestjs,nextjs,ts,js,docker,aws,postgres,firebase,git&theme=dark" />
+</p>
 
+---
 
-**prmartinezz/prmartinezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>“Code is not just about solving problems, it’s about creating possibilities.”</i>
+</p>
